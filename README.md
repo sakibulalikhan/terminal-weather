@@ -1,4 +1,5 @@
 # The Terminal Weather Tool.
+Terminal based weather reporting tool codded in python by [@sakibulalikhan](https://twitter.com/sakibulalikhan)
 
 ## How to dowload this tool?
 >>> git clone https://github.com/sakibulalikhan/terminal-weather.git
