@@ -12,6 +12,10 @@ Example:
 
 ![image](https://user-images.githubusercontent.com/75080608/192151124-3556be88-d15b-4720-8905-c5edab520ba6.png)
 
+#### If get any error then give this comman for install requirements.
+>>> pip3 install -r requirements.txt
+
+
 Now enter the City name. Like New York or else.
 
 Example:
