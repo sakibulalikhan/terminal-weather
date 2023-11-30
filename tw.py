@@ -49,11 +49,11 @@ else:
     wind = weather_data.json() ['wind']
     
 
-    print(f"\nThe weather in {user_input} is: {weather}")
-    print(f"\nThe temperature in {user_input} is: {temp}ºF and feels like {feels_like}ºF")
-    print(f"\nThe humadity in {user_input} is: {humidity}%")
-    print(f"\nThe visibility in {user_input} is: {visibility}")
-    print(f"\nThe wind speed in {user_input} is: {wind}")
+    print(f"\nThe weather in {user_input} : {weather}")
+    print(f"\nThe temperature in {user_input} : {temp}ºF and feels like {feels_like}ºF")
+    print(f"\nThe humidity in {user_input} : {humidity}%")
+    print(f"\nThe visibility in {user_input} : {visibility}")
+    print(f"\nThe wind speed in {user_input} : {wind}")
     
 
 
